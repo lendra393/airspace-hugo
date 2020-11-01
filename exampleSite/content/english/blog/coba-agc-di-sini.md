@@ -4,7 +4,6 @@ bg_image = "/images/14.png"
 categories = ["tes"]
 date = 2020-11-13T17:00:00Z
 description = "tes agc"
-draft = true
 image = ""
 tags = ["ewad"]
 title = "COBA AGC DI SINI"
